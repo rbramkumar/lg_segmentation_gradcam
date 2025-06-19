@@ -1,0 +1,12 @@
+model.model[0].conv.unit1.conv,
+model.model[1].submodule[0].conv.unit1.conv,
+model.model[1].submodule[1].submodule[0].conv.unit1.conv,
+model.model[1].submodule[1].submodule[1].submodule[0].conv.unit1.conv,
+model.model[1].submodule[1].submodule[1].submodule[1].submodule.conv.unit1.conv,
+model.model[1].submodule[1].submodule[1].submodule[2][1].conv.unit0.conv,
+model.model[1].submodule[1].submodule[2][1].conv.unit0.conv,
+model.model[1].submodule[2][1].conv.unit0.conv,
+model.model[2][1].conv.unit0.conv,
+
+elementwise
+gradcam++
