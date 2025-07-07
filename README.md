@@ -74,5 +74,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Contact:**  
-For questions or support, please open an issue or reach out to [rbramkumar](https://github.com/rbramkumar).
